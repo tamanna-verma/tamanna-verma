@@ -1,5 +1,5 @@
 [![Neon Green Futuristic Twitch Banner](https://user-images.githubusercontent.com/67545415/137700600-53dce5cd-dcbf-48f2-b7f8-6302ae42c691.png)
-)](https://tamanna-verma.github.io/Portfolio/) 
+](https://tamanna-verma.github.io/Portfolio/) 
 <h1 align="center">Hi 👋, I'm Tamanna Verma</h1>
 <h3 align="center">Girl with goals , trying to figure-out stuff!!</h3>
 
