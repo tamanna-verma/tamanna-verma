@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tamanna Verma</h1>
 <h3 align="center">Girl with goals , trying to figure-out stuff!!</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamanna-verma&label=Profile%20views&color=0e75b6&style=flat" alt="tamanna-verma" /> </p>
 
