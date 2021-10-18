@@ -1,4 +1,4 @@
-<!--- [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1639008000&v=beta&t=BWvsqjIVnIKpjYocWZJQz6CKeyahHC6WDPqE6_Lpo20)](https://khushboogoel01.github.io) --->
+[![MasterHead](https://www.canva.com/design/DAEtJ0cLsus/share/preview?token=nfrfkuCJncoBKyNJ2hy0yA&role=EDITOR&utm_content=DAEtJ0cLsus&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)](https://khushboogoel01.github.io) 
 <h1 align="center">Hi 👋, I'm Tamanna Verma</h1>
 <h3 align="center">Girl with goals , trying to figure-out stuff!!</h3>
 
