@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1DH_CxIF2EpzwEsuiNu1zWVKccY0UMDZs/view?usp=sharing)](https://tamanna-verma.github.io/Portfolio/) 
+[![MasterHead](https://im.ge/i/o1G1M0)](https://tamanna-verma.github.io/Portfolio/) 
 <h1 align="center">Hi 👋, I'm Tamanna Verma</h1>
 <h3 align="center">Girl with goals , trying to figure-out stuff!!</h3>
 
