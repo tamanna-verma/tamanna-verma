@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/tamanna01876926" target="blank"><img src="https://img.shields.io/twitter/follow/tamanna01876926?logo=twitter&style=for-the-badge" alt="tamanna01876926" /></a> </p>
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=tamanna-verma&left_color=gray&right_color=blue)
+
 - 👨‍💻 You can check my portfolio at [https://tamanna-verma.github.io/Portfolio/](https://tamanna-verma.github.io/Portfolio/)
 
 - 📝 I write articles on [https://tamannav01.medium.com/](https://tamannav01.medium.com/)
