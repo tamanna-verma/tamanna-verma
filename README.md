@@ -8,7 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/tamanna01876926" target="blank"><img src="https://img.shields.io/twitter/follow/tamanna01876926?logo=twitter&style=for-the-badge" alt="tamanna01876926" /></a> </p>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=tamanna-verma&left_color=gray&right_color=blue)
+<!--- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=tamanna-verma&left_color=gray&right_color=blue)-->
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 
 - 👨‍💻 You can check my portfolio at [https://tamanna-verma.github.io/Portfolio/](https://tamanna-verma.github.io/Portfolio/)
 
@@ -20,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!--- <a href="https://twitter.com/tamanna01876926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamanna01876926" height="30" width="40" /></a> ---> 
+<a href="https://twitter.com/tamanna01876926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamanna01876926" height="30" width="40" /></a> ---> 
 <a href="https://www.linkedin.com/in/tamanna-verma-350a091ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tamanna-verma-350a091ab/" height="30" width="40" /></a> 
 <a href="https://fb.com/https://www.facebook.com/tamanna.verma.315428/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tamanna.verma.315428/" height="30" width="40" /></a>  
 <a href="https://medium.com/@tamannav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tamannav01" height="30" width="40" /></a>  
