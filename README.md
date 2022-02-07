@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tamanna01876926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamanna01876926" height="30" width="40" /></a> ---> 
+<a href="https://twitter.com/tamanna01876926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamanna01876926" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tamanna-verma-350a091ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tamanna-verma-350a091ab/" height="30" width="40" /></a> 
 <a href="https://fb.com/https://www.facebook.com/tamanna.verma.315428/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tamanna.verma.315428/" height="30" width="40" /></a>  
 <a href="https://medium.com/@tamannav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tamannav01" height="30" width="40" /></a>  
