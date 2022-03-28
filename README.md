@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamanna-verma" alt="tamanna-verma" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-<p align="left"> <a href="https://twitter.com/tamanna01876926" target="blank"><img src="https://img.shields.io/twitter/follow/tamanna01876926?logo=twitter&style=for-the-badge" alt="tamanna01876926" /></a> </p>
+
 
 <!--- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=tamanna-verma&left_color=gray&right_color=blue)-->
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=tamanna-verma&repo=github-visitors-badge&countColor=%237B1E7A)
